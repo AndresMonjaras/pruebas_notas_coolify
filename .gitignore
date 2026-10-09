@@ -12,3 +12,12 @@ yarn-debug.log*
 yarn-error.log*
 .DS_Store
 *.pem
+
+# Entrega academica: reporte, capturas y resultados permanecen en local.
+/documentacion/
+/evidencias/
+/logs/
+/herramientas/
+/infraestructura/
+Practica_Coolify_Notion.md
+entrega*.zip
